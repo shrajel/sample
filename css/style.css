@@ -1,0 +1,103 @@
+
+.mail{
+    height: 5vh;
+    background-color: #000;
+    display: inline-block;
+    color: #fff;
+    width: 100%;
+    position: relative;
+}
+.second p1{
+    border-radius: 30%;
+}
+.mail h1{
+    display:inline-block;
+    font-size: small;
+    text-align: left;
+    padding: 10px;
+}
+ .mail h2{
+    text-align: right;
+    display:inline-block;
+    font-size: small;
+    margin-left: 73%;
+}
+.sir h1{
+    text-align: center;
+    padding: 20px;
+
+}
+.ad{
+margin-left: 6%;
+padding: 4px;
+}
+.adj{
+    margin-left: 6%;
+    padding: 4px;
+}
+.adjs{
+    margin-left: 6%;
+    padding: 4px;
+}
+.dit h1{
+    text-align: center;
+    padding: 20px;
+
+}
+.reach h1{
+    margin-left: 30%;
+    margin-top: 5%;
+}
+.down {
+    margin-top: 47%;
+    display: inline-block;
+}
+.cen h4{
+    margin-left: 40%;
+}
+.adjust{
+
+   padding: 20px 50px;
+
+}
+ h2{
+    text-align: center;
+}
+p{
+    font-size: 25px;
+}
+#more{
+    display: none;
+}
+.end{
+    height: 3vh;
+    width: 100%;
+    background-color: #000;
+    color: #ffff;
+    text-align: center;
+
+}
+.im img{
+    border: 4px solid black;
+}
+.sit{
+    margin-left: 40%;
+}
+.me{
+    padding: 25px 10px;
+}
+.my{
+    padding: 25px 10px;
+}
+.mo{
+    padding: 25px 10px;
+}
+.ser{
+    padding: 33px 10px;
+}
+.serv{
+    padding: 33px 10px;
+}
+.servi{
+    padding: 33px 10px;
+}
