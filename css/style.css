@@ -7,6 +7,22 @@
     width: 100%;
     position: relative;
 }
+.navbar-nav {
+    margin-left: 30%;
+}
+.navbar-nav li {
+    margin-right: 8%;
+}
+.navbar-text {
+    margin-left: 30%;
+}
+.btn-wrapper {
+    background-color: black;
+    width: 150px;
+    height: 30px;
+}
+
+
 .second p1{
     border-radius: 30%;
 }
@@ -101,7 +117,16 @@ p{
 .servi{
     padding: 33px 10px;
 }
+.square {
+    height: 70px;
+    width: 70px;
+    background-color: #555;
+    margin-bottom: 5%;
+}
 @media screen and (max-width: 1000px){
+    .navbar-nav {
+        margin-left: 0;
+    }
     .im img{
         width: 320px;
     }
@@ -118,4 +143,3 @@ p{
     margin-left: auto;
 }
 }
-
