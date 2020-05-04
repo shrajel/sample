@@ -101,3 +101,21 @@ p{
 .servi{
     padding: 33px 10px;
 }
+@media screen and (max-width: 1000px){
+    .im img{
+        width: 320px;
+    }
+ .end p3{
+     font-size: 12px;
+ }
+
+ .mail h2{
+     margin-left:7%;
+     font-size: 12px;
+     text-align: center;
+ }
+.mail h1{
+    margin-left: auto;
+}
+}
+
