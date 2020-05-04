@@ -21,6 +21,10 @@
     width: 150px;
     height: 30px;
 }
+.btn-wrapper a{
+    color: white!important;
+    padding: 14%;
+}
 
 
 .second p1{
